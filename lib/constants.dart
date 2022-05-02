@@ -42,7 +42,7 @@ final Escala DO_MAIOR = Escala("DÓ Maior", "https://www.youtube.com/watch?v=cCl
   NotePosition(note: Note.C, accidental: Accidental.None, octave: 5)
 ]);
 
-final Escala RE_MAIOR = Escala("RÉ Maior", "https://www.youtube.com/watch?v=cCl6fMz9Trg", 315, 320, "re.gif",
+final Escala RE_MAIOR = Escala("RÉ Maior", "https://www.youtube.com/watch?v=cCl6fMz9Trg", 318, 334, "re.gif",
     "A escala de Ré é formada pelas notas: D – E – F# – G – A – B – C# – D (Ré – Mi- Fá sustenido – Sol – Lá – Si – Dó sustenido – Ré).",
     [
   NotePosition(note: Note.D, accidental: Accidental.None, octave: 4),
@@ -55,7 +55,7 @@ final Escala RE_MAIOR = Escala("RÉ Maior", "https://www.youtube.com/watch?v=cCl
   NotePosition(note: Note.D, accidental: Accidental.None, octave: 5)
 ]);
 
-final Escala MI_MAIOR = Escala("MI Maior", "https://www.youtube.com/watch?v=cCl6fMz9Trg", 366, 372, "mi.gif",
+final Escala MI_MAIOR = Escala("MI Maior", "https://www.youtube.com/watch?v=cCl6fMz9Trg", 371, 381, "mi.gif",
     "A escala de Mi é formada pelas notas: E – F# – G# – A – B – C# – D# – E (Mi – Fá sustenido – Sol sustenido – Lá – Si – Dó sustenido/Ré bemol – Ré sustenido/Mi bemol – Mi).",
     [
   NotePosition(note: Note.E, accidental: Accidental.None, octave: 4),
